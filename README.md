@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+# React TailwindCSS Particle APP
+
+Build beautiful background with tsparticle module
+
+You can change the background color on here
+
+<img src="https://github.com/DarkHorseCorder/React-Tailwindcss-Particle-tsparticles/blob/master/public/Screenshot_4.png"/>
+
+## Different Backgrounds
+
+<img src="https://github.com/DarkHorseCorder/React-Tailwindcss-Particle-tsparticles/blob/master/public/Screenshot_1.png"/>
+
+<img src="https://github.com/DarkHorseCorder/React-Tailwindcss-Particle-tsparticles/blob/master/public/Screenshot_2.png"/>
+
+<img src="https://github.com/DarkHorseCorder/React-Tailwindcss-Particle-tsparticles/blob/master/public/Screenshot_3.png"/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
